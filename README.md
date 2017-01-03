@@ -1,2 +1,2 @@
 # ssm201608
-a  project by useing SSM framework
+a  project by using SSM framework
